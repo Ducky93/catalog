@@ -19,7 +19,7 @@ the third-party resources included **Amazon's Lightsail Instance** and the **xip
 ### location of ssh key for grader user is : 
 */var/www/catalog/catalog/ssh/id_rsa.pub*
 ### Grader user's SSH key is included into the "Notes to Reviewer" field
-### Github repository :
+### Github repository : https://github.com/Ducky93/catalog
 
 ## Project description :
 this project is a web app providing the service of managing different catalogs with their contained items .
