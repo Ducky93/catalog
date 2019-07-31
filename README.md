@@ -17,7 +17,7 @@ Configuration changes included :
 ### Third-party resources used:
 the third-party resources included **Amazon's Lightsail Instance** and the **xip.io** to access the application
 ### location of ssh key for grader user is : 
-*/var/www/catalog/catalog/ssh/id_rsa.pub*
+*~/.ssh/authorized_keys*
 ### Grader user's SSH key is included into the "Notes to Reviewer" field
 ### Github repository : https://github.com/Ducky93/catalog
 
